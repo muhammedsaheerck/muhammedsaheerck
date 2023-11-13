@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammed Saheer ck</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
-- 🔭 I’m currently working on [Shoe Club](https://github.com/muhammedsaheerck/muhammedsaheerck-shoeclub)
+- 🔭 I’m currently working on [Adam Technologies](https://adamtechnologies.io/)
 
-- 💬 Ask me about **Flutter,Dart,RestfullAPI,Hive,Git,Provider,HTML,CSS,Bootstrap**
+- 💬 Ask me about **Flutter,Dart,RestfullAPI,Hive,Git,State Management,HTML,CSS,Bootstrap,Figma**
 
 - 📫 How to reach me **saheerchelakkodan@gmail.com**
 
