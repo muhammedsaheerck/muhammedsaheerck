@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Adam Technologies](https://adamtechnologies.io/)
 
-- 💬 Ask me about **Flutter,Dart,RestfullAPI,Hive,Git,State Management,HTML,CSS,Bootstrap,Figma**
+- 💬 Ask me about **Flutter, Dart, RestfullAPI, Hive, Git, State Management, HTML, CSS, Bootstrap, Figma**
 
 - 📫 How to reach me **saheerchelakkodan@gmail.com**
 
