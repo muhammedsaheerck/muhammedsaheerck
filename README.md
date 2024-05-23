@@ -1,11 +1,11 @@
 
 <img alt="Night Coding" src="asset/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-<img alt="Hand Wave" src="asset/Hand Wave.gif" width='40' align="center"/><h1 align="center">Hi, I'm Muhammed Saheer ck</h1>
+<img alt="Hand Wave" src="asset/Hand Wave.gif" width='40' align="right"/><h1 align="center">Hi, I'm Muhammed Saheer ck</h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 <!-- <h3 align="center">A passionate Flutter developer from India</h3> -->
-👨🏻‍💻 &nbsp;A passionate Flutter developer from India\
-💡 &nbsp;I am a Fullstack Flutter Developer. I build a no. of android &  ios applications with flutter and backend in Firebase/NodeJS.
+👨🏻‍💻 &nbsp;A passionate Flutter developer from India.\
+💡 &nbsp;I am a Fullstack Flutter Developer. I build a no. of android &  ios applications with flutter and backend in Firebase/NodeJS.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🔭 &nbsp;I’m currently working on [Adam Technologies](https://adamtechnologies.io/)
 ✉️ &nbsp;You can shoot me an email at **saheerchelakkodan@gmail.com** I'll try to respond as soon as I can.\
