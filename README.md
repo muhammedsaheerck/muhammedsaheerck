@@ -35,6 +35,6 @@
  
 ***
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="./snake-dark.svg">
- <img alt="snake!" src="asset/snake-dark.svg">
+ <source media="(prefers-color-scheme: dark)" srcset="asset/snake-dark.svg">
+ <img alt="snake!" src="asset/snake.svg">
 </picture>
