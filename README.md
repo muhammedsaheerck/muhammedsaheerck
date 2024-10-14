@@ -7,7 +7,7 @@
 👨🏻‍💻 &nbsp;A passionate Flutter developer from India.\
 💡 &nbsp;I am a Fullstack Flutter Developer. I build a no. of android &  ios applications with flutter and backend in Firebase/NodeJS.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🔭 &nbsp;I’m currently working on [Adam Technologies](https://bestway-infotech/)\
+🔭 &nbsp;I’m currently working on [Bestway Info Tech](https://bestway-infotech/)\
 ✉️ &nbsp;You can shoot me an email at **saheerchelakkodan@gmail.com** I'll try to respond as soon as I can.\
 💬 &nbsp;Ask me about **Flutter, Dart, RestfullAPI, Hive, Git, State Management, HTML, CSS, Bootstrap, Figma ,Firebase**
 
